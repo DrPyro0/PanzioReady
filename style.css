@@ -1,0 +1,34 @@
+body {
+    background-color: #2f3e37;
+}
+p, h1, a, h2, h3, h4, li, h5{
+    color: #e8b56e;
+}
+a {
+    text-decoration: none;
+}
+#article {
+    padding-left: 2.9%;
+    padding-right: 2.9%;
+}
+a:hover {
+    text-decoration: underline;
+}
+.navbar {
+    list-style: none;
+}
+.navbar > li{
+    padding-left:40px;
+    padding-right:40px;
+}
+.top-nav{
+    background-color: #2f3e37;
+}
+#justify{
+    text-align: justify;
+}.form {
+    color: #e8b56e;
+}
+#emailHelp {
+    color: #e8b56e;
+}
